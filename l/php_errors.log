@@ -1,0 +1,43 @@
+[10-Jun-2026 09:19:07 Asia/Baghdad] PHP Warning:  preg_replace(): Compilation failed: PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u at offset 17 in C:\xampp\htdocs\l\download_pdf.php on line 45
+[06-Jul-2026 08:45:25 Asia/Baghdad] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'birth_date' in 'field list' in C:\xampp\htdocs\l\register.php:59
+Stack trace:
+#0 C:\xampp\htdocs\l\register.php(59): mysqli_prepare(Object(mysqli), 'INSERT INTO stu...')
+#1 {main}
+  thrown in C:\xampp\htdocs\l\register.php on line 59
+[06-Jul-2026 08:45:31 Asia/Baghdad] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'birth_date' in 'field list' in C:\xampp\htdocs\l\register.php:59
+Stack trace:
+#0 C:\xampp\htdocs\l\register.php(59): mysqli_prepare(Object(mysqli), 'INSERT INTO stu...')
+#1 {main}
+  thrown in C:\xampp\htdocs\l\register.php on line 59
+[06-Jul-2026 08:46:24 Asia/Baghdad] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'birth_date' in 'field list' in C:\xampp\htdocs\l\register.php:59
+Stack trace:
+#0 C:\xampp\htdocs\l\register.php(59): mysqli_prepare(Object(mysqli), 'INSERT INTO stu...')
+#1 {main}
+  thrown in C:\xampp\htdocs\l\register.php on line 59
+[06-Jul-2026 08:49:02 Asia/Baghdad] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'birth_date' in 'field list' in C:\xampp\htdocs\l\register.php:59
+Stack trace:
+#0 C:\xampp\htdocs\l\register.php(59): mysqli_prepare(Object(mysqli), 'INSERT INTO stu...')
+#1 {main}
+  thrown in C:\xampp\htdocs\l\register.php on line 59
+[06-Jul-2026 08:50:22 Asia/Baghdad] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'birth_date' in 'field list' in C:\xampp\htdocs\l\register.php:59
+Stack trace:
+#0 C:\xampp\htdocs\l\register.php(59): mysqli_prepare(Object(mysqli), 'INSERT INTO stu...')
+#1 {main}
+  thrown in C:\xampp\htdocs\l\register.php on line 59
+[06-Jul-2026 08:52:18 Asia/Baghdad] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'birth_date' in 'field list' in C:\xampp\htdocs\l\register.php:59
+Stack trace:
+#0 C:\xampp\htdocs\l\register.php(59): mysqli_prepare(Object(mysqli), 'INSERT INTO stu...')
+#1 {main}
+  thrown in C:\xampp\htdocs\l\register.php on line 59
+[06-Jul-2026 09:24:06 Asia/Baghdad] PHP Warning:  preg_replace(): Compilation failed: PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u at offset 17 in C:\xampp\htdocs\l\download_pdf.php on line 52
+[06-Jul-2026 09:28:10 Asia/Baghdad] PHP Warning:  preg_replace(): Compilation failed: PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u at offset 17 in C:\xampp\htdocs\l\download_pdf.php on line 52
+[06-Jul-2026 09:36:09 Asia/Baghdad] PHP Warning:  preg_replace(): Compilation failed: PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u at offset 17 in C:\xampp\htdocs\l\download_pdf.php on line 52
+[06-Jul-2026 09:47:33 Asia/Baghdad] PHP Warning:  preg_replace(): Compilation failed: PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u at offset 17 in C:\xampp\htdocs\l\download_pdf.php on line 52
+[06-Jul-2026 09:52:44 Asia/Baghdad] PHP Warning:  preg_replace(): Compilation failed: PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u at offset 17 in C:\xampp\htdocs\l\download_pdf.php on line 52
+[30-Aug-2026 09:31:50 Asia/Baghdad] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'dental_library' in C:\xampp1\htdocs\l\db.php:3
+Stack trace:
+#0 C:\xampp1\htdocs\l\db.php(3): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'dental_library')
+#1 C:\xampp1\htdocs\l\login.php(7): include('C:\\xampp1\\htdoc...')
+#2 {main}
+  thrown in C:\xampp1\htdocs\l\db.php on line 3
+[30-Aug-2026 10:03:41 Asia/Baghdad] PHP Warning:  preg_replace(): Compilation failed: PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u at offset 17 in C:\xampp1\htdocs\l\download_pdf.php on line 52
